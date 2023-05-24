@@ -4,10 +4,10 @@
   <a href="https://blacket.org">
     <img src="https://i.ibb.co/V3hJmZ2/D100-B18-C-82-D0-4787-A5-C5-14-B1495-E566-D.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">Blacket</h3>
+  <h3 align="center">Blocket</h3>
 
   <p align="center">
-    The first ever open-source Blooket private server created by Xotic written entirely in NodeJS. 
+   A W.I.P Blacket based website. 
     <br />
     <a href="https://github.com/XOTlC/Blacket/wiki"><strong>Get Help</strong></a>
     <br />
