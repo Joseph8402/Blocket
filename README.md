@@ -9,11 +9,7 @@
   <p align="center">
    A W.I.P Blacket based website. 
     <br />
-    <a href="https://github.com/XOTlC/Blacket/wiki"><strong>Get Help</strong></a>
-    <br />
-    <a href="https://github.com/XOTlC/Blacket/issues">Report Bug</a>
-    <a href="https://github.com/XOTlC/Blacket/issues">Request Feature</a>
-  </p>
+  
 </div>
 
 <details>
