@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://blacket.org">
-    <img src="https://i.ibb.co/V3hJmZ2/D100-B18-C-82-D0-4787-A5-C5-14-B1495-E566-D.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/Y0NbZGY/D16627-E8-9-BB1-4-A02-B21-B-12934-D89-C755.png" alt="Logo" width="100" height="100">
   </a>
   <h3 align="center">Blocket</h3>
 
