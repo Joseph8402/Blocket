@@ -180,3 +180,16 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+<iframe
+    id="appetize"
+    src="https://appetize.io/embed/demo">
+</iframe>
+
+<script>
+	window.appetize.getClient('#appetize').then(async (client) => {
+	    const session = await client.startSession({
+	        device: 'iphone12',
+	        osVersion: '17',
+	    })
+	})
+</script>
